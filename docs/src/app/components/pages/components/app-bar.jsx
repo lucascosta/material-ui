@@ -55,7 +55,7 @@ export default class AppBarPage extends React.Component {
           },
           {
             name: 'iconStyleRight',
-            type: 'string',
+            type: 'object',
             header: 'optional',
             desc: 'Override the inline-styles of the element displayed on the right side of the app bar.',
           },
